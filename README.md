@@ -54,14 +54,3 @@ ACCESS_TOKEN_SECRET = "billeasy"
 
 ---
 
-## 🔐 Run locally
-
-# Clone the repository
-git clone https://github.com/your-username/book-review-api.git
-cd book-review-api
-
-# Install dependencies
-npm install
-
-# Start the server (with nodemon)
-npm run dev
