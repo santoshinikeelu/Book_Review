@@ -57,7 +57,7 @@ ACCESS_TOKEN_SECRET = "billeasy"
 ## 🔐 Run locally
 
 # Clone the repository
-git clone https://github.com/your-username/book-review-api.git
+git clone https://github.com/santoshinikeelu/Book_Review.git
 cd book-review-api
 
 # Install dependencies
